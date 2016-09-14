@@ -16,4 +16,5 @@ For non-negative numbers, rounding up occurs when the digit to the right is 5 or
 Rounding down occurs when the digit to the right is less than point 5. If the value is negative the rule that applies is -0.75 rounds down to -0.8 and -0.74 rounds up to -0.7.
 
 For Contest 2 in ACSL's Senior Division in 2015-2016
+
 To run this code use `javac StringFunc.java` then `java StringFunc`
